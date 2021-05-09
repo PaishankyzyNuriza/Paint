@@ -6,7 +6,8 @@ Paint app is a simple application where you can draw your own drawings and paint
 A GUI Java application in group of 3 students.
 FullScreen application for interacting with user via touchscreen interface.
 
-#Instruction for using:
+# Instruction for using:
+
 Firstly , select new canvas for selecting working area defining the width and height. Select the size of your brush tool. Select your favorite color. Then click on Brush button.
 Easy to use , perfect abilities , Enjoy from painting . Be creative !
 
