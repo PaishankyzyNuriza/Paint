@@ -13,7 +13,8 @@ Easy to use , perfect abilities , Enjoy from painting . Be creative !
 
 This project was generated with JavaFX and Scene Builder.
 
-Features
+## Features
+
 • Create Drawings .
 
 • Select different brush sizes.
