@@ -34,7 +34,7 @@
 
 ### trello link :
 
-## [](https://trello.com/invite/b/NEvNSRFJ/5ddc331752ecea7ba5e2736527d7d0cf/final-project)
+[](https://trello.com/invite/b/NEvNSRFJ/5ddc331752ecea7ba5e2736527d7d0cf/final-project)
 
 ## Figma design:
 
