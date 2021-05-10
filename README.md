@@ -26,3 +26,5 @@ This project was generated with JavaFX and Scene Builder.
 • Easy to use , paint how you want
 
 You can see all this details from the screenshots above:
+
+
