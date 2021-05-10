@@ -46,5 +46,11 @@
 
 [https://www.figma.com/file/4T2VSAZWqJPYbbF0BRbRef/Paint-design-for-Final?node-id=1%3A11](url)
 
+## Final project requirements done:
+#### Deployment .jar and .exe file uploaded to the releases
+#### GitHub , readme.md contain informations , screenshots and links, uploaded with terminal 
+#### code should not have any comments
+#### Figma and trello done
+#### Used tutorials and documentations: https://youtu.be/Gtf4IkeCerA ,https://youtu.be/0u5aotARyU8, [https://kivy.org/doc/stable/tutorials/firstwidget.html](url)
 
 
