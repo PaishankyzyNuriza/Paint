@@ -33,7 +33,7 @@
 ![Снимок экрана (15)](https://user-images.githubusercontent.com/73305001/117591530-bc562c80-b156-11eb-8099-01b3f5ce6b74.png)
 
 ### trello link :
-
+[](https://trello.com/invite/b/NEvNSRFJ/5ddc331752ecea7ba5e2736527d7d0cf/final-project)
 ## Figma design:
 
 ![Снимок экрана (16)](https://user-images.githubusercontent.com/73305001/117591533-c24c0d80-b156-11eb-8922-7597b6706291.png)
